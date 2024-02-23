@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hom1{
+    background-image: url(../public/assests/img/projects-9.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+
+}
+.about1{
+    background-image: url(../public/assests/img/projects-10.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+
+}
+.cont1{
+    background-image: url(../public/assests/img/projects-13.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+
+}
