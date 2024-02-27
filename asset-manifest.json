@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/haswell-theme/static/css/main.1c0022a6.css",
+    "main.js": "/haswell-theme/static/js/main.14ea6bb9.js",
+    "static/media/projects-9.jpg": "/haswell-theme/static/media/projects-9.321f0bea071d9b06f381.jpg",
+    "static/media/projects-13.jpg": "/haswell-theme/static/media/projects-13.290fafb943edb6135142.jpg",
+    "static/media/projects-10.jpg": "/haswell-theme/static/media/projects-10.1816c189973914ff2b87.jpg",
+    "index.html": "/haswell-theme/index.html",
+    "main.1c0022a6.css.map": "/haswell-theme/static/css/main.1c0022a6.css.map",
+    "main.14ea6bb9.js.map": "/haswell-theme/static/js/main.14ea6bb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c0022a6.css",
+    "static/js/main.14ea6bb9.js"
+  ]
+}
